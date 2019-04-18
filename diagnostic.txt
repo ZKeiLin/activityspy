@@ -1,0 +1,50 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 2019-04-18 16:10:31.247 8392-8392/? I/016.activitysp: Not late-enabling -Xcheck:jni (already on)\
+2019-04-18 16:10:31.337 8392-8392/? W/016.activitysp: Unexpected CPU variant for X86 using defaults: x86\
+2019-04-18 16:10:31.541 8392-8392/edu.washington.zlin2016.activityspy W/016.activitysp: JIT profile information will not be recorded: profile file does not exits.\
+2019-04-18 16:10:31.544 8392-8392/edu.washington.zlin2016.activityspy I/chatty: uid=10087(edu.washington.zlin2016.activityspy) identical 10 lines\
+2019-04-18 16:10:31.544 8392-8392/edu.washington.zlin2016.activityspy W/016.activitysp: JIT profile information will not be recorded: profile file does not exits.\
+2019-04-18 16:10:31.564 8392-8392/edu.washington.zlin2016.activityspy I/InstantRun: starting instant run server: is main process\
+2019-04-18 16:10:31.618 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onCreate event fired\
+2019-04-18 16:10:31.672 8392-8392/edu.washington.zlin2016.activityspy W/016.activitysp: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (light greylist, reflection)\
+2019-04-18 16:10:31.673 8392-8392/edu.washington.zlin2016.activityspy W/016.activitysp: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (light greylist, reflection)\
+2019-04-18 16:10:31.700 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onStart event fired\
+2019-04-18 16:10:31.700 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onResume event fired\
+2019-04-18 16:10:31.704 8392-8392/edu.washington.zlin2016.activityspy D/OpenGLRenderer: Skia GL Pipeline\
+2019-04-18 16:10:31.741 8392-8410/edu.washington.zlin2016.activityspy I/ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0\
+2019-04-18 16:10:31.741 8392-8410/edu.washington.zlin2016.activityspy I/ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0\
+2019-04-18 16:10:31.741 8392-8410/edu.washington.zlin2016.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4\
+2019-04-18 16:10:31.741 8392-8410/edu.washington.zlin2016.activityspy D/OpenGLRenderer: Swap behavior 1\
+2019-04-18 16:10:31.741 8392-8410/edu.washington.zlin2016.activityspy W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...\
+2019-04-18 16:10:31.741 8392-8410/edu.washington.zlin2016.activityspy D/OpenGLRenderer: Swap behavior 0\
+2019-04-18 16:10:31.744 8392-8410/edu.washington.zlin2016.activityspy D/EGL_emulation: eglCreateContext: 0xe8684420: maj 3 min 0 rcv 3\
+2019-04-18 16:10:31.751 8392-8410/edu.washington.zlin2016.activityspy D/EGL_emulation: eglMakeCurrent: 0xe8684420: ver 3 0 (tinfo 0xe8683670)\
+2019-04-18 16:10:31.802 8392-8410/edu.washington.zlin2016.activityspy D/EGL_emulation: eglMakeCurrent: 0xe8684420: ver 3 0 (tinfo 0xe8683670)\
+2019-04-18 16:10:50.201 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onPause event fired\
+2019-04-18 16:10:50.765 8392-8410/edu.washington.zlin2016.activityspy D/EGL_emulation: eglMakeCurrent: 0xe8684420: ver 3 0 (tinfo 0xe8683670)\
+2019-04-18 16:10:50.785 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onStop event fired\
+2019-04-18 16:10:50.786 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onDestroy event fired\
+2019-04-18 16:10:50.786 8392-8392/edu.washington.zlin2016.activityspy E/MainActivity: We're going down, Captain!\
+2019-04-18 16:15:10.029 8392-8392/edu.washington.zlin2016.activityspy W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@5c9b101\
+2019-04-18 16:15:10.048 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onCreate event fired\
+2019-04-18 16:15:10.079 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onStart event fired\
+2019-04-18 16:15:10.079 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onResume event fired\
+2019-04-18 16:15:10.192 8392-8410/edu.washington.zlin2016.activityspy D/EGL_emulation: eglMakeCurrent: 0xe8684420: ver 3 0 (tinfo 0xe8683670)\
+2019-04-18 16:15:11.746 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onPause event fired\
+2019-04-18 16:15:11.760 8392-8410/edu.washington.zlin2016.activityspy D/EGL_emulation: eglMakeCurrent: 0xe8684420: ver 3 0 (tinfo 0xe8683670)\
+2019-04-18 16:15:11.762 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onStop event fired\
+2019-04-18 16:15:13.039 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onRestart event fired\
+2019-04-18 16:15:13.039 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onStart event fired\
+2019-04-18 16:15:13.040 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onResume event fired\
+2019-04-18 16:15:13.102 8392-8410/edu.washington.zlin2016.activityspy D/EGL_emulation: eglMakeCurrent: 0xe8684420: ver 3 0 (tinfo 0xe8683670)\
+2019-04-18 16:15:14.606 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onPause event fired\
+2019-04-18 16:15:15.150 8392-8410/edu.washington.zlin2016.activityspy D/EGL_emulation: eglMakeCurrent: 0xe8684420: ver 3 0 (tinfo 0xe8683670)\
+2019-04-18 16:15:15.167 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onStop event fired\
+2019-04-18 16:15:15.167 8392-8392/edu.washington.zlin2016.activityspy I/MainActivity: onDestroy event fired\
+2019-04-18 16:15:15.167 8392-8392/edu.washington.zlin2016.activityspy E/MainActivity: We're going down, Captain!}
